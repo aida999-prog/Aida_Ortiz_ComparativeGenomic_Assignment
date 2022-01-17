@@ -1,0 +1,9 @@
+Q746I3 Alpha-galactosidase OS=Thermus thermophilus (strain ATCC B...  179     2e-51
+Q72K98 Glyceraldehyde-3-phosphate dehydrogenase OS=Thermus thermo...  409     5e-145
+Q72IK4 ATP-dependent zinc metalloprotease FtsH OS=Thermus thermop...  557     0.0  
+P61707 Alanine--tRNA ligase OS=Thermus thermophilus (strain ATCC ...  709     0.0  
+Q72IZ1 DNA gyrase subunit A OS=Thermus thermophilus (strain ATCC ...  751     0.0  
+Q72KK7 Pyruvate, orthophosphate dikinase OS=Thermus thermophilus ...  884     0.0  
+Q72GM3 Leucine--tRNA ligase OS=Thermus thermophilus (strain ATCC ...  889     0.0  
+Q72IQ7 UvrABC system protein A OS=Thermus thermophilus (strain AT...  1090    0.0  
+P96495 Carbamoyl-phosphate synthase large chain OS=Thermus thermo...  1109    0.0  

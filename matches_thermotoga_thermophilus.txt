@@ -1,0 +1,12 @@
+Q9X2A2 N-acetyl-gamma-glutamyl-phosphate reductase OS=Thermotoga ...  189     2e-58
+Q9WZ26 3-isopropylmalate dehydrogenase OS=Thermotoga maritima (st...  223     1e-71
+Q9WY40 tRNA-5-methyluridine(54) 2-sulfurtransferase OS=Thermotoga...  228     2e-74
+Q9X0L5 Aminotransferase, putative OS=Thermotoga maritima (strain ...  241     5e-77
+Q9X199 Serine--tRNA ligase OS=Thermotoga maritima (strain ATCC 43...  284     3e-93
+Q9X1K6 Aspartokinase OS=Thermotoga maritima (strain ATCC 43589 / ...  327     2e-110
+Q9X1W4 Bifunctional protein GlmU OS=Thermotoga maritima (strain A...  355     3e-120
+Q9WYC7 3-isopropylmalate dehydratase large subunit 1 OS=Thermotog...  375     6e-129
+Q9WZ52 Lipopolysaccharide biosynthesis protein OS=Thermotoga mari...  451     3e-158
+P77993 DNA gyrase subunit B OS=Thermotoga maritima (strain ATCC 4...  703     0.0  
+Q9WYV0 UvrABC system protein A OS=Thermotoga maritima (strain ATC...  1072    0.0  
+Q9WZ27 Carbamoyl-phosphate synthase large chain OS=Thermotoga mar...  1097    0.0  
